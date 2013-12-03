@@ -3,6 +3,7 @@
 Conditional Execution
 =====================
 
+```
 if (expression)  // if expression is true
   statement;     // execute statement
 
@@ -15,3 +16,4 @@ if (expression)      // if expression is true
   statement;         // execute statement
 else if (expression) // otherwise if expression is true
   statement;         // execute statement
+```
