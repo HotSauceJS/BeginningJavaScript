@@ -1,7 +1,7 @@
 # JavaScript Flow Control Cheat Sheet
 
 Conditional Execution
-=====================
+---------------------
 
 ```
 if (expression)  // if expression is true
