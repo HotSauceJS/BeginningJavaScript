@@ -2,9 +2,10 @@
 
 Vocabulary
 ----------
-Expression:  code that returns value
-Statement:   optional keyword and expression
-Assignment:  expression that sets a variable
+
+* Expression:  code that returns value
+* Statement:   optional keyword and expression
+* Assignment:  expression that sets a variable
 
 Unary Operators
 ---------------
