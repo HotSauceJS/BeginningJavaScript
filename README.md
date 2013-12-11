@@ -1,6 +1,10 @@
 # Beginning JavaScript
 
-Greg &amp; Dustin's Beginning JavaScript Class Files
+Aww yeah, these are Greg &amp; Dustin's Beginning JavaScript class files.
+
+You'll find individual lessons in each directory. 
+
+Notes for the whole class are available in the cheatsheets directory.
 
 ## Installing Node
 
