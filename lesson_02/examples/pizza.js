@@ -1,3 +1,4 @@
+// A warm up from last weeks exercises.
 // Given pizza toppings, display a summary of the pizza order.
 
 var cheese = true;
