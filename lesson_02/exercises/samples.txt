@@ -18,8 +18,8 @@ use a switch to log out the NATO phonetic alphabet for A - Alpha, B - Bravo, C -
 
 Loops:
 write a loop that logs the word "yeah!" 5 times
-write a loop that logs all odd numbers up to 20
-write a loop that logs all even numbers up to 19
+write a loop that logs all even numbers up to 20
+write a loop that logs all odd numbers up to 19
 write a loop that logs all numbers from 3 to 30, in steps of 3
 write a loop that logs all numbers counting down from 10
 write a loop that logs all years from 1983 through this year

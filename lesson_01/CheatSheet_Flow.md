@@ -37,24 +37,24 @@ Loops
 -----	
 
 ```
-for ([initialExpression]; [condition]; [incrementExpression])
-   statement
+while (condition)   // check if condition is true
+   statements;      // loop over statement
 ```
 
 ```
 do
-   statement
-while (condition);
+   statement;        // loop over statement
+while (condition);   // check if condition is true
 ```
 
 ```
-while (condition)
-   statement
+for (initialize; condition; iterate;)
+   statement;
 ```
 
 ```
-break
-continue
+break	   // exit loop
+continue   // start next loop
 ```
 
 Blocks
