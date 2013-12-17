@@ -1,4 +1,4 @@
-# JavaScript Flow Control Statements Cheat Sheet
+# JavaScript Function Cheat Sheet
 
 Function Operator
 -----------------
